@@ -84,6 +84,7 @@ body{
     width: 100%; /* Ширина слоя */
     padding: 10px; /* Поля вокруг текста */
     background: #39b54a; /* Цвет фона */
+    margin-top: -50px;
 }
 
 #rel{
