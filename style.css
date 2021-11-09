@@ -85,8 +85,17 @@ body{
     padding: 10px; /* Поля вокруг текста */
     background:	#0000ff; /* Цвет фона */
     margin-top: -50px;
+
 }
 
+#footer1{
+
+    left: 0; bottom: 20; /* Левый нижний угол */
+    color: #fff; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
+    padding: 10px; /* Поля вокруг текста */
+    background:	#0000ff; /* Цвет фона */
+    margin-top: -50px;
 #rel{
 	font-color: rgba(0, 0, 0, 0);
 	font-size: 1px;
