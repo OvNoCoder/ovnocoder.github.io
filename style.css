@@ -78,13 +78,12 @@ body{
 }
 
 #footer{
-	background:#d2d0d2;
-	height: 4500px;
-	width: 900px;
-
-	background-image: url();
-	background-size: 900px 1000px;
-	background-repeat: no-repeat;
+	 position: fixed; /* Фиксированное положение */
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
+    background: #39b54a; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
 }
 
 #rel{
