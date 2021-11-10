@@ -1,5 +1,5 @@
 body{
-	background-image: url(FON_HEADER.JPG);
+	
 	background-attachment: fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -84,7 +84,7 @@ body{
     width: 100%; /* Ширина слоя */
     padding: 10px; /* Поля вокруг текста */
     background:	#0000ff; /* Цвет фона */
-   
+    width: 920px;
 
 }
 
