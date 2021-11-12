@@ -16,8 +16,9 @@ body{
 	background-size: cover;
 	background: #d2d0d2;
 	height: 200px;
-	width: 920px;
 	background-image: url();
+	 width: 100%;
+ 	max-width:1000px;
 	
 	background-size: 1000px 200px;
 	background-repeat: no-repeat;
