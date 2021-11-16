@@ -1,5 +1,5 @@
 body{
-	
+
 	background-attachment: fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -19,7 +19,7 @@ body{
 	background-image: url();
 	 width: 100%;
  	max-width:1000px;
-	
+
 	background-size: 1000px 200px;
 	background-repeat: no-repeat;
 	margin-block: -28px;
@@ -72,7 +72,7 @@ body{
 #content{
 	background: #d2d0d2;
 	width: 920px;
-	height: 1035px;
+	height: 100%;
 	margin-block: -16px;
 
 
@@ -97,79 +97,8 @@ body{
     padding: 10px; /* Поля вокруг текста */
     background:	#0000ff; /* Цвет фона */
     margin-top: -50px;
-	
+	}
 #rel{
 	font-color: rgba(0, 0, 0, 0);
 	font-size: 1px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
