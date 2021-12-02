@@ -103,3 +103,6 @@ body{
 	font-color: rgba(0, 0, 0, 0);
 	font-size: 1px;
 }
+fig {
+    text-align: center;
+}
